@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Buenos modales</string>
+    <string name="title">Aplicación de los buenos modales</string>
+    <string name="txt_gracias">De nada</string>
+    <string name="txt_estornudar">¡Salud!</string>
+    <string name="btn_gracias">Gracias</string>
+    <string name="btn_estornudar">Estornudar</string>
+</resources>
